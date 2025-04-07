@@ -22,7 +22,7 @@ Convert audio (.wav) files to text using an AI-powered offline speech recognitio
 ---
 
 
-### 🚀 **How It Works**
+### **How It Works**
 1. Load the Whisper model (`base` model used for a balance of speed and accuracy).
 2. Read and transcribe the `.wav` audio file.
 3. Print and save the transcribed text.
