@@ -17,7 +17,6 @@ Convert audio (.wav) files to text using an AI-powered offline speech recognitio
 |--------------|------------------------------------------------|
 | Python       | Main programming language                      |
 | Whisper      | Offline speech-to-text model from OpenAI       |
-| FFmpeg       | For audio handling & format compatibility      |
 | VS Code      | Code editor                                    |
 
 ---
